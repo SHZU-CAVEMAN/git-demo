@@ -8,3 +8,4 @@ Hunan Province
 “好玩！”
 git-fetch？
 啥玩意？
+git fetch 和 git pull 相似，不同在于前者拉取代码后不会合并，而是保存在本地仓库副本中，要想本地代码改变，需要git merge origin branch将远程仓库副本代码合并到本地仓库
